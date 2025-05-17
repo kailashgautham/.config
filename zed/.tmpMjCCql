@@ -1,0 +1,13 @@
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"macos-classic","version":"0.0.7"}
+{"signed_in":false,"milliseconds_since_first_event":1,"type":"Setting","setting":"theme","value":"Atelier Lakeside Dark"}
+{"signed_in":false,"milliseconds_since_first_event":1,"type":"Setting","setting":"keymap","value":"VSCode"}
+{"signed_in":false,"milliseconds_since_first_event":1,"type":"App","operation":"open"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Editor","operation":"open","file_extension":"journal","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Copilot","suggestion_id":null,"suggestion_accepted":false,"file_extension":null}
+{"signed_in":false,"milliseconds_since_first_event":2,"type":"Copilot","suggestion_id":null,"suggestion_accepted":false,"file_extension":null}
+{"signed_in":false,"milliseconds_since_first_event":109,"type":"Copilot","suggestion_id":null,"suggestion_accepted":false,"file_extension":null}
+{"signed_in":false,"milliseconds_since_first_event":109,"type":"Copilot","suggestion_id":null,"suggestion_accepted":false,"file_extension":null}
+{"signed_in":true,"milliseconds_since_first_event":2985,"type":"Extension","extension_id":"html","version":"0.0.1"}
+{"signed_in":true,"milliseconds_since_first_event":3068,"type":"Copilot","suggestion_id":null,"suggestion_accepted":false,"file_extension":null}
+{"signed_in":true,"milliseconds_since_first_event":239936,"type":"Memory","memory_in_bytes":118767616,"virtual_memory_in_bytes":442513670144}
+{"signed_in":true,"milliseconds_since_first_event":239936,"type":"Cpu","usage_as_percentage":0.8034862,"core_count":8}
